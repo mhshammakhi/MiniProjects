@@ -1,0 +1,8 @@
+Created By: Mohammad Hasan Shammakhi
+Email me for contact: mh.shammakhi@gmail.com
+----
+
+This Project did in 2016 for Advanced Python in Maktabkhooneh.
+It is created to estimate car price in Iran, and it shows available cars for buying. 
+The car prices are exported from https://bama.ir/ . We support all car brands and model which could find in Bama.
+The project's GUI has been developed by pyqt5.
